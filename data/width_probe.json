@@ -1,0 +1,112 @@
+{
+ "model": "shallow",
+ "params": 106002,
+ "n_subjects": 40,
+ "n_train": 1194,
+ "n_test": 596,
+ "test_acc": 0.745,
+ "feature_map_shape": [
+  40,
+  31,
+  1
+ ],
+ "feature_dim": 956,
+ "participation_ratio": 956.0,
+ "participation_ratio_raw": 1.536,
+ "pca": {
+  "pr": 1.5574754279338934,
+  "evr_top10": [
+   0.8007,
+   0.0166,
+   0.0125,
+   0.0122,
+   0.0085,
+   0.0072,
+   0.0068,
+   0.0054,
+   0.0051,
+   0.0047
+  ],
+  "cum_at": {
+   "10": 0.8797,
+   "50": 0.9377,
+   "100": 0.9607
+  },
+  "median_abs_r": 0.8044
+ },
+ "pca_whitened": {
+  "pr": 955.999903298721,
+  "evr_top10": [
+   0.001,
+   0.001,
+   0.001,
+   0.001,
+   0.001,
+   0.001,
+   0.001,
+   0.001,
+   0.001,
+   0.001
+  ],
+  "cum_at": {
+   "10": 0.0105,
+   "50": 0.0523,
+   "100": 0.1047
+  },
+  "median_abs_r": 0.0
+ },
+ "whiten": true,
+ "sweep": [
+  {
+   "dict_size": 128,
+   "k": 8,
+   "r2_train": 0.1078,
+   "r2_test": -0.0324,
+   "dead_frac": 0.0,
+   "active_per_sample": 8.0
+  },
+  {
+   "dict_size": 256,
+   "k": 8,
+   "r2_train": 0.2114,
+   "r2_test": -0.0535,
+   "dead_frac": 0.0,
+   "active_per_sample": 8.0
+  },
+  {
+   "dict_size": 512,
+   "k": 16,
+   "r2_train": 0.4083,
+   "r2_test": -0.0904,
+   "dead_frac": 0.0,
+   "active_per_sample": 16.0
+  },
+  {
+   "dict_size": 1024,
+   "k": 32,
+   "r2_train": 0.7738,
+   "r2_test": -0.2162,
+   "dead_frac": 0.0,
+   "active_per_sample": 32.0
+  },
+  {
+   "dict_size": 2048,
+   "k": 64,
+   "r2_train": 0.9106,
+   "r2_test": -0.0438,
+   "dead_frac": 0.002,
+   "active_per_sample": 64.0
+  },
+  {
+   "dict_size": 4096,
+   "k": 64,
+   "r2_train": 0.8987,
+   "r2_test": -0.2212,
+   "dead_frac": 0.0854,
+   "active_per_sample": 64.0
+  }
+ ],
+ "chosen_dict": 4096,
+ "r1_decision": "保留 4096",
+ "rule": "PR<64 且 R2(4096)-R2(1024)<0.01 ⇒ 4096 空转，取 min{D:R2≥0.99max}"
+}

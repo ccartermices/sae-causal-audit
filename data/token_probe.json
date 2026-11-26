@@ -1,0 +1,37 @@
+{
+ "n_subjects": 40,
+ "n_train": 1194,
+ "decoder_acc": 0.7651,
+ "variants": {
+  "pre_pool": {
+   "tokens_per_trial": 537,
+   "token_dim": 40,
+   "n_tokens_probe": 128880,
+   "n_tokens_full": 641178,
+   "tokens_per_atom_at_4096": 786.6,
+   "pr": 19.82,
+   "evr_top5": [
+    0.1044,
+    0.0891,
+    0.0769,
+    0.0702,
+    0.0646
+   ]
+  },
+  "post_pool": {
+   "tokens_per_trial": 31,
+   "token_dim": 40,
+   "n_tokens_probe": 7440,
+   "n_tokens_full": 37014,
+   "tokens_per_atom_at_4096": 45.4,
+   "pr": 1.33,
+   "evr_top5": [
+    0.8669,
+    0.0269,
+    0.0144,
+    0.0097,
+    0.0079
+   ]
+  }
+ }
+}

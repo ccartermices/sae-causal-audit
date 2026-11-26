@@ -1,0 +1,1712 @@
+{
+ "created": "2026-11-18T15:18:21",
+ "params_sha256": "dea5b82cc291abf2b1341e20fda05f6ec99586c0107c57eca2a4ea0852ad4adb",
+ "datasets": {
+  "mmidb": {
+   "dataset": "mmidb",
+   "n_files": 109,
+   "n_trials": 19571,
+   "params_sha256": "dea5b82cc291abf2b1341e20fda05f6ec99586c0107c57eca2a4ea0852ad4adb",
+   "epoch": [
+    [
+     0.5,
+     4.0
+    ]
+   ],
+   "baseline": [
+    [
+     -0.2,
+     0.0
+    ]
+   ],
+   "reject_uv": 150.0,
+   "files": [
+    {
+     "file": "data/interim/epochs/mmidb/S001.npz",
+     "sha256": "3fa08558dce757e7a8c9300a4962c82b0bb26e246bdcb3a2438879b3769101f2",
+     "bytes": 23814940,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S002.npz",
+     "sha256": "f40c1dee4a3f2ee2303b283d4246ba3c519c6feb88a27bf744fcc6aa0d946ccb",
+     "bytes": 23952223,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S003.npz",
+     "sha256": "5f95f83c22290e698cb92d7b448e059ff466e3331f994ec7151bb8f1f8934851",
+     "bytes": 23821567,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S004.npz",
+     "sha256": "759ee272b48b90497f180b1d9a83d578b15b89658c7c48f9b02da6e9fb041f9c",
+     "bytes": 23828481,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S005.npz",
+     "sha256": "bb869e210d97b8f2607157c2a6a0c06e7e02bf53bf51475cfdacc3f914083f49",
+     "bytes": 23942243,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S006.npz",
+     "sha256": "91164f9fd2c16bc4734a4dbaaec90f04979f6b0be87a509b615918b457ace73b",
+     "bytes": 23894211,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S007.npz",
+     "sha256": "963f0c82aeae2fc47ab3528b2a76963faf7e15950c3f548ec7ae160f6efae34b",
+     "bytes": 23957687,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S008.npz",
+     "sha256": "dfa42de348cca5327e3ac5adc2de79c2c01d9640b2ada703b16e0ace7fd57792",
+     "bytes": 23897800,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S009.npz",
+     "sha256": "f3fcb779ecfabbee2271969d701554334f5e9ba85435c78aa541f6f348e0f3f1",
+     "bytes": 23907839,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S010.npz",
+     "sha256": "a625d7390409c980f64f931108999236f460e7df1143351b89ece480ad5c2910",
+     "bytes": 23815187,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S011.npz",
+     "sha256": "6f5c7aa7b75592279a46f058c8fa4bb3f8a3b610e0db4322e0a7f4ba824a5d43",
+     "bytes": 23856243,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S012.npz",
+     "sha256": "097a5e261d7570012ae7b0e2861cefc2461503a906a04f89d767e805c29fd86e",
+     "bytes": 23927525,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S013.npz",
+     "sha256": "5528351cf1707bf6671bab2a6f919798670435f78ca9478f8e42467c248fbe03",
+     "bytes": 23958064,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S014.npz",
+     "sha256": "3b92cd3883097a6ab5dca4f5ee675a90ae5bb3ee71180e4d1b7838628966c761",
+     "bytes": 23958545,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S015.npz",
+     "sha256": "a3b9125371a67127cfb75ee8da9d3adaed02083ccfde9375704aa0ffebba11da",
+     "bytes": 23940421,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S016.npz",
+     "sha256": "01db75323090b434e7b64b7a60f4bff43327222e401985f56bb6cc401440b8e7",
+     "bytes": 23915304,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S017.npz",
+     "sha256": "e085c6fe2f837ec5c350ae8999d5155c8bd06e5a28c3f7d46ec1805f4087a89a",
+     "bytes": 23882917,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S018.npz",
+     "sha256": "7fdf96cdda1ac348525a520117295020cfc1b8b554bee7c83549b302ab706ecb",
+     "bytes": 23891258,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S019.npz",
+     "sha256": "43a86f50d18e1d07b945f22af85fc0129e40de6f5df3d025192e6c3536d338cb",
+     "bytes": 23966558,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S020.npz",
+     "sha256": "16d4118f9e4f99715997d50d364bf9b84734162db4d9df0dd2a9777b9bb09785",
+     "bytes": 23835334,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S021.npz",
+     "sha256": "8a75d3cb3d322ab76d57b09178922b283a99ea98c92f45f9a4e3c6c06069491f",
+     "bytes": 23943172,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S022.npz",
+     "sha256": "df663a6481fc2b168a0b8a6072be2d22161b191904385ce17f036b1322bd560f",
+     "bytes": 23898131,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S023.npz",
+     "sha256": "3144995806d291515d32859415d22113aa3223600a4c183ac1f2bb703fc14df9",
+     "bytes": 23890376,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S024.npz",
+     "sha256": "3fc26c79cc2e20d0b66bdbfe769c045c5596e7437f62f3709f28268b60cc5be1",
+     "bytes": 24008336,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S025.npz",
+     "sha256": "edb46857980e4db8689143fedaf177102e1612c1c70966970b0ce47be7e51b2e",
+     "bytes": 23909633,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S026.npz",
+     "sha256": "549337e45dff52f682784e51ecf40b9ee0ec42bf9e012ba96f827547d6509807",
+     "bytes": 23912956,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S027.npz",
+     "sha256": "de0db48c793beba612172e6a227ff1111a6aba551609f0eb2a7ed7a17c8cc0c1",
+     "bytes": 23843727,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S028.npz",
+     "sha256": "695f66c66d20f40b5179e171a9d763cabc18004b43f2afcc208e929e5b072844",
+     "bytes": 23854942,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S029.npz",
+     "sha256": "1b5f3a2caac608aaf1a1bdd44f23b8e84c9cd022d220e85dc915d5c174536974",
+     "bytes": 23791235,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S030.npz",
+     "sha256": "4c904af221d6064cfece14a22ce4a56cdfa5fcae04cf712e70a878fc99f1db55",
+     "bytes": 23668259,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S031.npz",
+     "sha256": "8e840f8450bdb642431d081fc2afac15610ef8b4fb8cfe1a46b6e8ca2c8c345f",
+     "bytes": 23991962,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S032.npz",
+     "sha256": "2c0754264bdc0106c982f63770b9ec9c7f51aa928406a66db484024bce440ede",
+     "bytes": 23840314,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S033.npz",
+     "sha256": "01917bc02a89c45387e5c46df0eb894b9334ac1f3ad01517b9982d5395b8039c",
+     "bytes": 23914635,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S034.npz",
+     "sha256": "05dc0fd3e8f966c8b341b5ae57f19110ce973ac7d034b4b026ba35103eb1ee6c",
+     "bytes": 22424495,
+     "n_trials": 169,
+     "shape": [
+      169,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S035.npz",
+     "sha256": "f9564cde9342e477b7bf53832a2fcd406d8eb3e3e04e1bf0936d5bbe969e876b",
+     "bytes": 23929397,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S036.npz",
+     "sha256": "029a14fd75f72fce20a65290868653836fc62e650addac7443cf1e3dd4b71f06",
+     "bytes": 23927155,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S037.npz",
+     "sha256": "368837e68260a682206a5b3a9958516f401db4cc9c4c45b631630cca3997c0e3",
+     "bytes": 22398620,
+     "n_trials": 169,
+     "shape": [
+      169,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S038.npz",
+     "sha256": "6788c4d54178e21368486faddc92416cd06f47840b3e2fe7ca539724dfee52b0",
+     "bytes": 23956590,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S039.npz",
+     "sha256": "a8cdaeb76036b03aec7329ebe537ec128a32bd92224302fca8b87bc45e79b076",
+     "bytes": 23850320,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S040.npz",
+     "sha256": "df709941fe8cb86d67027b32280e3c13954259c08a93f30b5189ceb7f8cf4148",
+     "bytes": 23911491,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S041.npz",
+     "sha256": "7dee1129acb7eb4dd47bc375e653b3667a466f92b8b96f30ed4938fefb3dc289",
+     "bytes": 22850621,
+     "n_trials": 172,
+     "shape": [
+      172,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S042.npz",
+     "sha256": "91da153bea845fc785c759f5dea8b7720ec1178d24424c14ec75fc5c76e88e35",
+     "bytes": 23834088,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S043.npz",
+     "sha256": "930c59dc6c2c306976284a19e837beb43f3e03ded2390b78e7163548379e13bb",
+     "bytes": 23941928,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S044.npz",
+     "sha256": "e15905afe1ada9f9efae6352298e32cb38e4e2d41264ca4a12f16fa9f0e05dd3",
+     "bytes": 23857756,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S045.npz",
+     "sha256": "156d0bf159b781bed05c8a68c1f712dd9f7adb05bea353f942ca78d4ae473dbe",
+     "bytes": 23918226,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S046.npz",
+     "sha256": "017b97683d2c55100c220bcbfd3a7375c94da26237015700523780491db3feaa",
+     "bytes": 23858547,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S047.npz",
+     "sha256": "829428f2a9bea42bb9d3032a366776a74481fb4ed308bf111b0001c7d9b57492",
+     "bytes": 23932139,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S048.npz",
+     "sha256": "52404bfb2b0f3022657b91a0c7ca606811262406e6171962baac03ebf7f83c60",
+     "bytes": 23922051,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S049.npz",
+     "sha256": "42ba9dbf95869c4fbc18192e36351eda6a231eda09c34ff479acd508ecc2076d",
+     "bytes": 23913507,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S050.npz",
+     "sha256": "9a868b333a76009ba9aad143b4d95dc0b83d6c8cbb46df6737526293c1af69c3",
+     "bytes": 23920790,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S051.npz",
+     "sha256": "05d31c782a2e3e8233587cfb19378c56109cb419b473523065f7d16651df500a",
+     "bytes": 23076186,
+     "n_trials": 174,
+     "shape": [
+      174,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S052.npz",
+     "sha256": "2d575bda6a394e8bccef069e1283a70bf2bf8e6c4cd2cf54d6e59ea9fe53af41",
+     "bytes": 23886207,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S053.npz",
+     "sha256": "8e2bc5156573bcd5ff25aa124af549c43128e2818e6f72b330cb2078e3afd5fd",
+     "bytes": 23940817,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S054.npz",
+     "sha256": "f4f7b645749506d5bf94791365bf20d99b1072ef5d25677c932af9d931df0748",
+     "bytes": 23911547,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S055.npz",
+     "sha256": "e666857db731e538ff0637fc1feed451d1e9d5bf3f926fc956f8c81a31c1c408",
+     "bytes": 23804855,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S056.npz",
+     "sha256": "61659ecdb4b4314289fe885744f01a812a66ad4002810f625db6e00f40d96384",
+     "bytes": 23965597,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S057.npz",
+     "sha256": "71fddcb872960c35575be34f2224b86ed54e98b8a3f015dbd4b48ef6cf83f2e8",
+     "bytes": 23889138,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S058.npz",
+     "sha256": "151615276c409071d51793943cc93a8f1268e4d0e5fd2a8414f95ac5ed2f0c19",
+     "bytes": 23972823,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S059.npz",
+     "sha256": "34bf788ea926cc48050b1ab14fdca0b08928c9e108299d23d0a7c0ff02ea8511",
+     "bytes": 23800564,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S060.npz",
+     "sha256": "a922d42c61b606bbe937d0d8709c9cbdacacb63bfe8b2a78a8320e6afd33ede5",
+     "bytes": 23837452,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S061.npz",
+     "sha256": "bf57a0f8fb191b7ca271f5bebfc5b27cd896b3536c4a037354e35222e3e82711",
+     "bytes": 23901437,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S062.npz",
+     "sha256": "e78ec4e6f2eabc402c55f29da82aea9e7265d9b7da9f14d8ffc06700821af0d0",
+     "bytes": 23882012,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S063.npz",
+     "sha256": "004df6e20f1beff4668c7b33784a22787db3b7b9cb685ccbf8cc259d1905febd",
+     "bytes": 23951269,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S064.npz",
+     "sha256": "5b2ce78b83c7437af3af868bc6c443210e8cfe9eaae23297223247f58b210104",
+     "bytes": 22634820,
+     "n_trials": 171,
+     "shape": [
+      171,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S065.npz",
+     "sha256": "bb025ac024b71d8c738887f0dc01b03039532e2d5a784b4fa70322a48d213048",
+     "bytes": 23935379,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S066.npz",
+     "sha256": "df1e6ee2f5d7a2f335e804bc36d7ccfb7d285a8b3737d5f2481f5398bf7e40a3",
+     "bytes": 23773172,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S067.npz",
+     "sha256": "d799518c9f6a208645e18ab176a4b19e69bca8c5202d482a3f88e27f91e59d93",
+     "bytes": 23881044,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S068.npz",
+     "sha256": "98207da680d51a6f6fe98ba6e2a1b3adf34b5e2354310d26f94437e59218220c",
+     "bytes": 23860710,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S069.npz",
+     "sha256": "a5c12adf69983032d42152292888b8f9b8e83d416742a6d96097aadc9619fc47",
+     "bytes": 23718506,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S070.npz",
+     "sha256": "87b1439cd6b2a3dbd55c8a72091ad19bced006a1406bcc6eb937d61decc0e7f5",
+     "bytes": 23909218,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S071.npz",
+     "sha256": "e98444de86d08af1933867fc2955225acc602fe5eabc3ca188aaef2dddad3190",
+     "bytes": 23914672,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S072.npz",
+     "sha256": "f058c0d2211b4d57c8ab443d42603fd337626c4cf79073224031e3fcd3f394b9",
+     "bytes": 22362775,
+     "n_trials": 169,
+     "shape": [
+      169,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S073.npz",
+     "sha256": "a223e7023f3f0cec52456d9f27b3d74c63583b7cd0f80f95eaec96f228df3c86",
+     "bytes": 22296663,
+     "n_trials": 168,
+     "shape": [
+      168,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S074.npz",
+     "sha256": "1ef5460ba39bf25de2e7915330c711c07fdbfc9d8a1f5a0fe232fb8290b1c20b",
+     "bytes": 22448933,
+     "n_trials": 169,
+     "shape": [
+      169,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S075.npz",
+     "sha256": "3073b4099137e9c09b500f86792515d5d9ddc0f9abcd26e972647c749f941e00",
+     "bytes": 23909704,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S076.npz",
+     "sha256": "2f9e60bc343e3541582f41950745a217c3b0bdf3c1b22f1c3044bb0bcf94a197",
+     "bytes": 22264427,
+     "n_trials": 168,
+     "shape": [
+      168,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S077.npz",
+     "sha256": "824656edb736c20261fbadb6f12461eef2790214b4a05cb5ce61522c204be5f7",
+     "bytes": 23909914,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S078.npz",
+     "sha256": "911bccd1dbfe3feb63679a0cdaec54faed62840f4bedd20a6d52748ddb6da497",
+     "bytes": 23920759,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S079.npz",
+     "sha256": "5cbb0a7080182f50277ffefff4656ddef25f8b6d8db477cac58dcce9ed95f5e6",
+     "bytes": 23790324,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S080.npz",
+     "sha256": "971d03325f35047be10cd58bdfdfb561512038b4b97c81f52abd3e7226e9eef2",
+     "bytes": 23902059,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S081.npz",
+     "sha256": "b41f5482ddebd317cf0b0893782808b7e4af5c1cf048f34d2716fb6cce6aeee0",
+     "bytes": 23868602,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S082.npz",
+     "sha256": "3376fbcce45734055e8be29330ff1a53f12a5acc5e6eb9b63353b1a30dfbd8cd",
+     "bytes": 23920260,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S083.npz",
+     "sha256": "b1c9ec0ce8c6274790cadf69c93b4845f8496ac26cc22b8a9b089abd839210b6",
+     "bytes": 23872917,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S084.npz",
+     "sha256": "2a4917c72208e80f3a140c92449fda3de1482d16fa0fbc4dfd8e4ae5725d36c7",
+     "bytes": 23852365,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S085.npz",
+     "sha256": "ffd23201c774b4d9ed6e2fa5d14d9ee770844662583812a7bbdd2aa466351998",
+     "bytes": 23965941,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S086.npz",
+     "sha256": "8f8d2127af2ae80c1c80d1cd079c5d8fc316197486e632a09730ac1186d1c954",
+     "bytes": 23799969,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S087.npz",
+     "sha256": "43d2ea96fa6c6090b1779b8521cf0751936e5083b8418a3a36f631cff4ef9439",
+     "bytes": 23918863,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S088.npz",
+     "sha256": "653b30e3778efe7f5af70303056a12ee921d1b23f16577fb188de377e1fb7f37",
+     "bytes": 24193889,
+     "n_trials": 228,
+     "shape": [
+      228,
+      64,
+      449
+     ],
+     "sfreq": 128.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S089.npz",
+     "sha256": "eab4a2651a0135a00e16415aba816e7d7632c2c1244314eb9c658b7f68b3f64b",
+     "bytes": 24779515,
+     "n_trials": 187,
+     "shape": [
+      187,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S090.npz",
+     "sha256": "3dddd500daeb4a5656626e5937232f55e84aa5eb2ba799df7b24d94fe949c711",
+     "bytes": 23921750,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S091.npz",
+     "sha256": "23736631fab29fb68caa9ff4f7d0c592392d21343ad8d1bf3aa41a5ccc704f58",
+     "bytes": 23838643,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S092.npz",
+     "sha256": "6cffacff6a1b70f85ce9f86a163b6c8c1e81fc2805afa459561e679ba9e2cce3",
+     "bytes": 24287849,
+     "n_trials": 228,
+     "shape": [
+      228,
+      64,
+      449
+     ],
+     "sfreq": 128.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S093.npz",
+     "sha256": "6342334c61b963a6baf9210586872eb07f43678df365ba5161adf064e92e36e4",
+     "bytes": 23851678,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S094.npz",
+     "sha256": "f2a15a1af658c1d53fd6bffacd2ae77e01df2012f0241fc06960cb38cf7dd0ca",
+     "bytes": 23918514,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S095.npz",
+     "sha256": "be3914dc652a9f3880fadc12438121d622f441508819aa1c0991d68bae7316b2",
+     "bytes": 23769425,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S096.npz",
+     "sha256": "f8f7e70c743e3689f0cdf11580584c4f8f376b5d887adf0b48b8576c35aa072d",
+     "bytes": 23862719,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S097.npz",
+     "sha256": "221b1de094d4e6374d6b9effd6f5d5ee4026b49cf7be07f0db6abc2cb6242d41",
+     "bytes": 23916429,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S098.npz",
+     "sha256": "235f8b39f8b0ed62f80c87b6fa7a4f0f55e59e44c2044dd6615ca4f6d5150cd4",
+     "bytes": 23887856,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S099.npz",
+     "sha256": "231b82f7a8a0ed12da858765a88414e4d6368d5c9a9a2a738d9246245313c4c4",
+     "bytes": 23895090,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S100.npz",
+     "sha256": "66f26cac263c86c263bd71fa6eb99bb10d240a495efd82117fb9882fcfca3045",
+     "bytes": 15343093,
+     "n_trials": 144,
+     "shape": [
+      144,
+      64,
+      449
+     ],
+     "sfreq": 128.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S101.npz",
+     "sha256": "11a4ce4cba497af0022eca84ef0e267ed137f23f73a4131107fcea270ef6d347",
+     "bytes": 23864366,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S102.npz",
+     "sha256": "5e4ec62077f9193da5ae1835e71847733df81442647910edc53b8fe1f23b000d",
+     "bytes": 22341082,
+     "n_trials": 169,
+     "shape": [
+      169,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S103.npz",
+     "sha256": "0106ca76308af947ff2fa8c2c6423c60c3f18880aaa5a13dd221f43532e00bb7",
+     "bytes": 23853131,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S104.npz",
+     "sha256": "40896b4379c0553d7a684ef59fe9ac21c0370106e6a317b5e440ad0e77a6d5b1",
+     "bytes": 23450714,
+     "n_trials": 177,
+     "shape": [
+      177,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S105.npz",
+     "sha256": "967b943da1f20980327da9234d2266b6dc63fb748957e2d5cfbc50235cd588c8",
+     "bytes": 23956695,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S106.npz",
+     "sha256": "820c1cd11e96590728174608686187db4542c1bd7c196123e433dac274280397",
+     "bytes": 22439673,
+     "n_trials": 169,
+     "shape": [
+      169,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S107.npz",
+     "sha256": "035efb8bcfbec8342697dca5d0a1cf474128c74cbe75dd3bc0a9abba8f9bff29",
+     "bytes": 23854402,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S108.npz",
+     "sha256": "2c495dfb8170c4bd86f20164da27e8bb3990d771a093c9ec7b364b80d0336838",
+     "bytes": 23925471,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    },
+    {
+     "file": "data/interim/epochs/mmidb/S109.npz",
+     "sha256": "cd3309cb65664d506a2b9aaade176ae68c5e76b614145b9c1971e9e0f8a2f1d0",
+     "bytes": 23882674,
+     "n_trials": 180,
+     "shape": [
+      180,
+      64,
+      561
+     ],
+     "sfreq": 160.0
+    }
+   ]
+  },
+  "bci2a": {
+   "dataset": "bci2a",
+   "n_files": 18,
+   "n_trials": 5126,
+   "params_sha256": "dea5b82cc291abf2b1341e20fda05f6ec99586c0107c57eca2a4ea0852ad4adb",
+   "epoch": [
+    [
+     2.0,
+     6.0
+    ]
+   ],
+   "baseline": [
+    [
+     0.5,
+     2.0
+    ]
+   ],
+   "reject_uv": 150.0,
+   "files": [
+    {
+     "file": "data/interim/epochs/bci2a/A01E.npz",
+     "sha256": "62f1ec0efffa4a18758771521d38ca8213b6f5b95502c5c05e08c67ed9a1e32a",
+     "bytes": 26563310,
+     "n_trials": 286,
+     "shape": [
+      286,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A01T.npz",
+     "sha256": "22e630a83ba0cf04b7b4b3f9264cb5463069b39aa4fde5487942e31fd45bb000",
+     "bytes": 26752624,
+     "n_trials": 288,
+     "shape": [
+      288,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A02E.npz",
+     "sha256": "ae25c71505c973d683e3a29413f57773ed7cdb19a0c5813c88596cbc086722d6",
+     "bytes": 26363571,
+     "n_trials": 284,
+     "shape": [
+      284,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A02T.npz",
+     "sha256": "37cfb542b4eb1cb86eebbc3fe6a837c54edba1afd42d8cd52c9c285f88cf3c6e",
+     "bytes": 26670527,
+     "n_trials": 287,
+     "shape": [
+      287,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A03E.npz",
+     "sha256": "3f69e640c95dc9f2f62fe1623ace58663069cf459610af90e19cbf2773b18707",
+     "bytes": 26471708,
+     "n_trials": 285,
+     "shape": [
+      285,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A03T.npz",
+     "sha256": "6f43f6d16cb62acab89cb51ecc73bd73a01258b0efbd57162288b653c74bbf8c",
+     "bytes": 26551728,
+     "n_trials": 286,
+     "shape": [
+      286,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A04E.npz",
+     "sha256": "1a398caf7facf8ee4a1b69d96d946a5dc020b564bf3ae697d5bb11f06c55c493",
+     "bytes": 26666199,
+     "n_trials": 287,
+     "shape": [
+      287,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A04T.npz",
+     "sha256": "de65d7b26302852c5522bd9a6ed0fe3c340580cfe5e466e4d0727655c72c96e5",
+     "bytes": 26764813,
+     "n_trials": 288,
+     "shape": [
+      288,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A05E.npz",
+     "sha256": "7bd83ae9b3c1ec3d42364a2b5acca827af798fbabb0a8deb80a55b45e32eef76",
+     "bytes": 26675719,
+     "n_trials": 287,
+     "shape": [
+      287,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A05T.npz",
+     "sha256": "1e482ae2abe1447288edcb4247ac997a2af5a3d66a8226cd886c6200650e3f9a",
+     "bytes": 26589249,
+     "n_trials": 286,
+     "shape": [
+      286,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A06E.npz",
+     "sha256": "9d1fd52a05ff881c7a7c57527b629d8d8c1f78e1db9e13a65843e37ebde2c8b4",
+     "bytes": 25806730,
+     "n_trials": 278,
+     "shape": [
+      278,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A06T.npz",
+     "sha256": "60a725c7275d65959a6340f1c95da4132f5cbb26ea04ff9d20ccdf5fb54dc702",
+     "bytes": 26362941,
+     "n_trials": 284,
+     "shape": [
+      284,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A07E.npz",
+     "sha256": "4ff3af4e58a40141fc6c796b060d421e9bc7f05e4b072d335ac5d1580a0ea3ca",
+     "bytes": 26765007,
+     "n_trials": 288,
+     "shape": [
+      288,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A07T.npz",
+     "sha256": "5778e920ad9d3b7e90cd26f7589795628b1e455c6ee0407256f96082369ac2f4",
+     "bytes": 26760507,
+     "n_trials": 288,
+     "shape": [
+      288,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A08E.npz",
+     "sha256": "45fe53d6dabb455ca3e1b71b5deeb2f260f813907005a66b5a338f95ba90d06a",
+     "bytes": 26540690,
+     "n_trials": 286,
+     "shape": [
+      286,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A08T.npz",
+     "sha256": "37262469acd823b14d04c2de6a9b2686bc5ad7da4302e646edc1b801cbf2d84c",
+     "bytes": 26444071,
+     "n_trials": 285,
+     "shape": [
+      285,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A09E.npz",
+     "sha256": "21bc17679bbeefa5b2e5f63225eed29deac7e22c4176a52011ff4b30bb987ee8",
+     "bytes": 25888557,
+     "n_trials": 279,
+     "shape": [
+      279,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/bci2a/A09T.npz",
+     "sha256": "608b84370a31d9387a839ad4f7075a0ce42769afba13fb02326cb5127cc7a966",
+     "bytes": 25426106,
+     "n_trials": 274,
+     "shape": [
+      274,
+      25,
+      1000
+     ],
+     "sfreq": 250.0
+    }
+   ]
+  },
+  "ssvep": {
+   "dataset": "ssvep",
+   "n_files": 10,
+   "n_trials": 2400,
+   "params_sha256": "dea5b82cc291abf2b1341e20fda05f6ec99586c0107c57eca2a4ea0852ad4adb",
+   "epoch": [
+    [
+     -0.5,
+     5.5
+    ]
+   ],
+   "baseline": [
+    null
+   ],
+   "reject_uv": 150.0,
+   "files": [
+    {
+     "file": "data/interim/epochs/ssvep/S1.npz",
+     "sha256": "467f873198973249ebbf0a2e2f052f9a07e7cce2b728fdb580c3d73d008d19b8",
+     "bytes": 83908649,
+     "n_trials": 240,
+     "shape": [
+      240,
+      64,
+      1500
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/ssvep/S10.npz",
+     "sha256": "8989c767153e5c7acb964c49f2c2a34a68f08046f877367ee995611aae7b76cd",
+     "bytes": 84195950,
+     "n_trials": 240,
+     "shape": [
+      240,
+      64,
+      1500
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/ssvep/S2.npz",
+     "sha256": "532e36a898876ef50409fa52f79136712044a5a51a573160a724a37b90d9cf7b",
+     "bytes": 84805913,
+     "n_trials": 240,
+     "shape": [
+      240,
+      64,
+      1500
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/ssvep/S3.npz",
+     "sha256": "e32fecb1d595f10f210f1e3edf2b1d34022ce281565126af2317292e55ac5176",
+     "bytes": 84707300,
+     "n_trials": 240,
+     "shape": [
+      240,
+      64,
+      1500
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/ssvep/S4.npz",
+     "sha256": "86d0ca73959970e01e2d966b6ef8abf4ce7446ef3a002a259800b7949dfeeadb",
+     "bytes": 84315434,
+     "n_trials": 240,
+     "shape": [
+      240,
+      64,
+      1500
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/ssvep/S5.npz",
+     "sha256": "02ff740853714d54ec8d9b3552d0b84e6ceb25cd7b194288f5e867bf4fe77da8",
+     "bytes": 84364661,
+     "n_trials": 240,
+     "shape": [
+      240,
+      64,
+      1500
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/ssvep/S6.npz",
+     "sha256": "b0752c0911e0a4e4393308068becd862a4a5dbc7e382b78424161fce19473f39",
+     "bytes": 84659802,
+     "n_trials": 240,
+     "shape": [
+      240,
+      64,
+      1500
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/ssvep/S7.npz",
+     "sha256": "03d9ddb0b5ec26cb7a2eabd7e20de24c51154604b78ca72ac772f125a4cc321e",
+     "bytes": 84594490,
+     "n_trials": 240,
+     "shape": [
+      240,
+      64,
+      1500
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/ssvep/S8.npz",
+     "sha256": "819ee96462b29adafd4d8db614efd7eebb1444c6ce4a5ebd40b0a2991f463d55",
+     "bytes": 84400175,
+     "n_trials": 240,
+     "shape": [
+      240,
+      64,
+      1500
+     ],
+     "sfreq": 250.0
+    },
+    {
+     "file": "data/interim/epochs/ssvep/S9.npz",
+     "sha256": "c48711861fcda2dd1e955e15ffe4c24354973f4c4b4b504ffdb74310045cd21d",
+     "bytes": 84619053,
+     "n_trials": 240,
+     "shape": [
+      240,
+      64,
+      1500
+     ],
+     "sfreq": 250.0
+    }
+   ]
+  }
+ },
+ "n_files": 137,
+ "n_trials": 27097
+}

@@ -1,0 +1,161 @@
+file,run,n_samples,n_chans,sfreq,classes,labeled,n_trials,counts,n_artifacts
+A01E.mat,0,34291,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A01E.mat,1,34459,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A01E.mat,2,37040,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A01E.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A01E.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A01E.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A01E.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A01E.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",0
+A01E.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",0
+A01T.mat,0,29683,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A01T.mat,1,20172,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A01T.mat,2,41463,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A01T.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A01T.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",4
+A01T.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A01T.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A01T.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A01T.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A02E.mat,0,22901,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A02E.mat,1,23115,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A02E.mat,2,35440,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A02E.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A02E.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A02E.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A02E.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",0
+A02E.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",0
+A02E.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A02T.mat,0,31513,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A02T.mat,1,25989,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A02T.mat,2,38457,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A02T.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",0
+A02T.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A02T.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A02T.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A02T.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A02T.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",8
+A03E.mat,0,19884,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A03E.mat,1,25905,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A03E.mat,2,21776,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A03E.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A03E.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",5
+A03E.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",0
+A03E.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",4
+A03E.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",0
+A03E.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",4
+A03T.mat,0,23720,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A03T.mat,1,33872,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A03T.mat,2,21728,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A03T.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A03T.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",4
+A03T.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A03T.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",7
+A03T.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A03T.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A04E.mat,0,24266,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A04E.mat,1,21259,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A04E.mat,2,33312,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A04E.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",13
+A04E.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",11
+A04E.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",12
+A04E.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",8
+A04E.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",12
+A04E.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",4
+A04T.mat,0,19905,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A04T.mat,1,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A04T.mat,2,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A04T.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A04T.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",6
+A04T.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",9
+A04T.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",5
+A05E.mat,0,31589,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A05E.mat,1,27230,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A05E.mat,2,39834,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A05E.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",6
+A05E.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A05E.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A05E.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",0
+A05E.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A05E.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",0
+A05T.mat,0,30139,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A05T.mat,1,38121,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A05T.mat,2,36650,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A05T.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",7
+A05T.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A05T.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A05T.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",7
+A05T.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",6
+A05T.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A06E.mat,0,25614,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A06E.mat,1,23562,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A06E.mat,2,35987,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A06E.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",8
+A06E.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",20
+A06E.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",22
+A06E.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",5
+A06E.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",14
+A06E.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",4
+A06T.mat,0,29184,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A06T.mat,1,31011,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A06T.mat,2,37575,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A06T.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",5
+A06T.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",15
+A06T.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",13
+A06T.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",10
+A06T.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",7
+A06T.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",19
+A07E.mat,0,27161,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A07E.mat,1,27483,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A07E.mat,2,37281,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A07E.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A07E.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A07E.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A07E.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A07E.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A07E.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A07T.mat,0,27170,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A07T.mat,1,35606,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A07T.mat,2,37085,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A07T.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A07T.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",4
+A07T.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",4
+A07T.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",4
+A07T.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",2
+A07T.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",0
+A08E.mat,0,32790,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A08E.mat,1,35790,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A08E.mat,2,38002,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A08E.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A08E.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A08E.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A08E.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A08E.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A08E.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",6
+A08T.mat,0,30571,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A08T.mat,1,26994,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A08T.mat,2,36495,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A08T.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",5
+A08T.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A08T.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",5
+A08T.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",5
+A08T.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A08T.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A09E.mat,0,25808,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A09E.mat,1,27019,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A09E.mat,2,41061,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A09E.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",3
+A09E.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",1
+A09E.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",5
+A09E.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",5
+A09E.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",5
+A09E.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",5
+A09T.mat,0,30878,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A09T.mat,1,23304,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A09T.mat,2,37936,25,250.0,left hand/right hand/feet/tongue,0,0,{},0
+A09T.mat,3,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",11
+A09T.mat,4,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",11
+A09T.mat,5,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",7
+A09T.mat,6,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",6
+A09T.mat,7,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",10
+A09T.mat,8,96735,25,250.0,left hand/right hand/feet/tongue,1,48,"{""1"": 12, ""2"": 12, ""3"": 12, ""4"": 12}",6

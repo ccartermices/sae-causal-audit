@@ -1,0 +1,92 @@
+{
+ "model": "eegnet",
+ "params": 2674,
+ "n_subjects": 40,
+ "n_train": 1194,
+ "n_test": 596,
+ "test_acc": 0.7735,
+ "feature_map_shape": [
+  16,
+  1,
+  17
+ ],
+ "feature_dim": 272,
+ "participation_ratio": 21.105,
+ "participation_ratio_raw": 18.967,
+ "pca": {
+  "pr": 21.10534448883307,
+  "evr_top10": [
+   0.1663,
+   0.0913,
+   0.0446,
+   0.0333,
+   0.0315,
+   0.03,
+   0.0281,
+   0.0256,
+   0.0241,
+   0.0237
+  ],
+  "cum_at": {
+   "10": 0.4984,
+   "50": 0.833,
+   "100": 0.9453
+  },
+  "median_abs_r": 0.1251
+ },
+ "pca_whitened": null,
+ "whiten": false,
+ "sweep": [
+  {
+   "dict_size": 128,
+   "k": 8,
+   "r2_train": 0.7441,
+   "r2_test": 0.4025,
+   "dead_frac": 0.0,
+   "active_per_sample": 8.0
+  },
+  {
+   "dict_size": 256,
+   "k": 8,
+   "r2_train": 0.8281,
+   "r2_test": 0.3892,
+   "dead_frac": 0.0,
+   "active_per_sample": 8.0
+  },
+  {
+   "dict_size": 512,
+   "k": 16,
+   "r2_train": 0.9334,
+   "r2_test": 0.4703,
+   "dead_frac": 0.0,
+   "active_per_sample": 16.0
+  },
+  {
+   "dict_size": 1024,
+   "k": 32,
+   "r2_train": 0.9763,
+   "r2_test": 0.5852,
+   "dead_frac": 0.0,
+   "active_per_sample": 31.95
+  },
+  {
+   "dict_size": 2048,
+   "k": 64,
+   "r2_train": 0.9748,
+   "r2_test": 0.7064,
+   "dead_frac": 0.0005,
+   "active_per_sample": 63.95
+  },
+  {
+   "dict_size": 4096,
+   "k": 64,
+   "r2_train": 0.972,
+   "r2_test": 0.6948,
+   "dead_frac": 0.0183,
+   "active_per_sample": 63.96
+  }
+ ],
+ "chosen_dict": 4096,
+ "r1_decision": "保留 4096",
+ "rule": "PR<64 且 R2(4096)-R2(1024)<0.01 ⇒ 4096 空转，取 min{D:R2≥0.99max}"
+}

@@ -1,0 +1,84 @@
+{
+ "generated_at": "2026-11-18T04:01:50+00:00",
+ "mmidb": {
+  "n_subjects": 109,
+  "n_edf": 1526,
+  "n_chans": 64,
+  "sfreq": 160.0
+ },
+ "bci2a": {
+  "n_files": 18,
+  "n_subjects": 9,
+  "n_chans_total": 25,
+  "n_chans_eog": 3,
+  "n_chans_eeg": 22,
+  "sfreq": 250.0,
+  "n_runs_per_session": 9,
+  "n_labeled_runs_per_session": 6,
+  "n_trials_per_session": 288,
+  "n_labeled_runs_values": [
+   6
+  ],
+  "n_trials_values": [
+   288
+  ],
+  "files_with_fewer_than_9_runs": [
+   "A04T.mat"
+  ]
+ },
+ "ssvep": {
+  "shape": [
+   64,
+   1500,
+   40,
+   6
+  ],
+  "n_chans": 64,
+  "n_samples": 1500,
+  "n_targets": 40,
+  "n_blocks": 6,
+  "n_subjects_files": 10,
+  "sfreq": 250.0
+ },
+ "annotations": {
+  "mmidb": {
+   "n_subjects": 109,
+   "n_error_rows": 0,
+   "runs_per_subject": 14,
+   "runs_per_subject_values": [
+    14
+   ],
+   "n_subjects_with_128hz": 3,
+   "subjects_with_128hz": [
+    "S088",
+    "S092",
+    "S100"
+   ],
+   "n_subjects_canonical_180": 25,
+   "t1_per_subject_min": 72,
+   "t1_per_subject_max": 116,
+   "t2_per_subject_min": 72,
+   "t2_per_subject_max": 112,
+   "t1_min_subject": "S100",
+   "t1_max_subject": "S088",
+   "trials_total": 19676
+  },
+  "bci2a": {
+   "n_files": 18,
+   "labeled_runs_per_file": 6,
+   "labeled_runs_values": [
+    6
+   ],
+   "trials_per_file": 288,
+   "trials_values": [
+    288
+   ],
+   "n_trials_total": 5184,
+   "n_artifacts_total": 488,
+   "artifact_rate": 0.0941,
+   "files_with_fewer_than_9_runs": [
+    "A04T.mat"
+   ]
+  }
+ }
+}
